@@ -100,7 +100,10 @@ python app.py
 ```
 
 The application will launch in the default web browser and can be accessed at `http://localhost:8501`.
-![screenshot](screenshot/screenshot.png)
+
+![screenshot 1](screenshot/1.png)
+
+![screenshot 2](screenshot/2.png)
 
 ## Contributing 💡
 
